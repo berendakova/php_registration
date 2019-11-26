@@ -1,0 +1,16 @@
+{
+    "name": "root/reg-v1000",
+    "authors": [
+        {
+            "name": "Tanya",
+            "email": "olga85138@gmail.com"
+        }
+    ],
+
+
+  "autoload": {
+    "psr-4": {
+      "UserRegistration\\": "src/"
+    }
+  }
+}
